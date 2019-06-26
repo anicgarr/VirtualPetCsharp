@@ -1,0 +1,5 @@
+C:\Projects\VirtualPet\VirtualPet\bin\Debug\VirtualPet.exe.config
+C:\Projects\VirtualPet\VirtualPet\bin\Debug\VirtualPet.exe
+C:\Projects\VirtualPet\VirtualPet\bin\Debug\VirtualPet.pdb
+C:\Projects\VirtualPet\VirtualPet\obj\Debug\VirtualPet.exe
+C:\Projects\VirtualPet\VirtualPet\obj\Debug\VirtualPet.pdb
